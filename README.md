@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @postempirical
-- 👀 I’m interested in Wev Development (MERN Stack), Java
+- 👀 I’m interested in Wev Development (MERN Stack), Java, Linux
 - 🌱 I’m currently learning SQL, React
 - 📫 How to reach me plohani.wrk@gmail.com
 <!---- 💞️ I’m looking to collaborate on ... --->
