@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Fullstack Open](https://fullstackopen.com/en/)
 
-- 🌱 I’m currently learning **React, Nodejs, SQL. Data Structures**
+- 🌱 I’m currently learning **React, Nodejs, SQL, Data Structures & Algorithms**
 
-- 💬 Ask me about **Javascript, Java, General Comp.Sci**
+- 💬 Ask me about **Javascript, Java, Cryptocurrencies, General Comp.Sci**
 
 - 📫 How to reach me **prlohani.main@gmail.com**
 
